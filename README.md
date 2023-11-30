@@ -18,7 +18,6 @@ The variables birth-year, education, income, and so on are related to the first 
 
 •	Create variables to populate the total number of children, age, and total spending. 
 
-Hint: From the number of purchases through the three channels, people can derive the total purchases.
 
 •	Create box plots and histograms to understand the distributions and outliers. Perform outlier treatment.
 
@@ -28,15 +27,15 @@ Hint: From the number of purchases through the three channels, people can derive
 
 •	Test the following hypotheses:
 
-  •	Older people are not as tech-savvy and probably prefer shopping in-store.
-  •	Customers with kids probably have less time to visit a store and would prefer to shop online.
-  •	Other distribution channels may cannibalize sales at the store.
-  •	Does the US fare significantly better than the rest of the world in terms of total purchases?
+  1.	Older people are not as tech-savvy and probably prefer shopping in-store.
+  2.	Customers with kids probably have less time to visit a store and would prefer to shop online.
+  3.	Other distribution channels may cannibalize sales at the store.
+  4.	Does the US fare significantly better than the rest of the world in terms of total purchases?
   
 •	Use appropriate visualization to help analyze the following:
 
-  •		Which products are performing the best, and which are performing the least in terms of revenue?
-  •		Is there any pattern between the age of customers and the last campaign acceptance rate?
-  •		Which Country has the greatest number of customers who accepted the last campaign?
-  •		Do you see any pattern in the no. of children at home and total spend?
-  •		Education background of the customers who complained in the last 2 years.
+  1.		Which products are performing the best, and which are performing the least in terms of revenue?
+  2.		Is there any pattern between the age of customers and the last campaign acceptance rate?
+  3.		Which Country has the greatest number of customers who accepted the last campaign?
+  4.	  Do you see any pattern in the no. of children at home and total spend?
+  5.		Education background of the customers who complained in the last 2 years.
