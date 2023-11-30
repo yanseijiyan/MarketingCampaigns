@@ -34,8 +34,8 @@ The variables birth-year, education, income, and so on are related to the first 
   
 •	Use appropriate visualization to help analyze the following:
 
-  1.		Which products are performing the best, and which are performing the least in terms of revenue?
-  2.		Is there any pattern between the age of customers and the last campaign acceptance rate?
-  3.		Which Country has the greatest number of customers who accepted the last campaign?
-  4.	  Do you see any pattern in the no. of children at home and total spend?
-  5.		Education background of the customers who complained in the last 2 years.
+  1.	Which products are performing the best, and which are performing the least in terms of revenue?
+  2.	Is there any pattern between the age of customers and the last campaign acceptance rate?
+  3.	Which Country has the greatest number of customers who accepted the last campaign?
+  4.	Do you see any pattern in the no. of children at home and total spend?
+  5.	Education background of the customers who complained in the last 2 years.
